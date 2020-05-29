@@ -1,7 +1,9 @@
 # Code-Refactor
 
 [Code Refactor - Deployed](https://jungjungie.github.io/Code-Refactor/)
+<br>
 [My GitHub](https://github.com/jungjungie)
+<br>
 [My Portfolio](https://jungjungie.github.io/)
 
 ### Project Description:
